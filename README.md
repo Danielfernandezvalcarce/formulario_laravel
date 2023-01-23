@@ -17,6 +17,6 @@
 10. [x] Crea una ruta predeterminada que dirija las peticiones al punto de posts/create (la ruta de tipo Resource dirige las peticiones al punto necesario)
 11. [x] Crea el modelo Post, añadiendo lo necesario para permitir una inserción usando Eloquent.
 12. [x] Inserta al menos 2 post, manualmente o con otro método. Puedes usar sentencias raw (dependientes del SGBD) , QueryBuilder o Eloquent.
-13. [ ] Usa Gate para controlar que la actualización solo pueda hacerla el autor del post.
+13. [ ] Usa Gate para controlar que la actualización solo pueda hacerla el autor del post. (Se usa policy con el nombre 'ChirpPolicy')
 14. [x] Subida a GitHub
 15. [x] Despliegue en remoto

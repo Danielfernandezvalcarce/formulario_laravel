@@ -75,5 +75,14 @@
     "Your email address is unverified.": "Su dirección de correo electrónico no está verificada.",
     "Welcome! You're logged in!" : "Bienvenido! estás logueado!",
     "Welcome to the dumb social net, where only dumbs post!" : "Bienvenido a la red social de idiotas, donde solo los idiotas postean!",
-    "Made by Daniel Valcarce" : "Hecho por Daniel Valcarce"
+    "Made by Daniel Valcarce" : "Hecho por Daniel Valcarce",
+    "Title" : "Titulo",
+    "Extract" : "Extracto",
+    "Content" : "Contenido",
+    "What's the title?": "¿Cual es el título?",
+    "What's the extract?": "¿Cual es el extracto?",
+    "What's the content?": "¿Cual es el contenido?",
+    "Access" : "Acceso",
+    "Public" : "Publico",
+    "Private" : "Privado"
 }

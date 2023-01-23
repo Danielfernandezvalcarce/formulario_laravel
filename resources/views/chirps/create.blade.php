@@ -43,10 +43,10 @@
             <input type="checkbox" name="caducable">
             <label for="comentable">Comentable</label>
             <input type="checkbox" name="comentable"><br>
-            <label for="acceso">Acceso</label>
+            <label for="acceso">{{__('Access')}}</label>
             <select name="acceso">
-                <option value="1">Publico</option>
-                <option value="0">Privado</option>
+                <option value="1">{{__('Public')}}</option>
+                <option value="0">{{__('Private')}}</option>
             </select><br>
             <x-input-error :messages="$errors->get('message')" class="mt-2" />
             <x-primary-button class="mt-4">{{ __('Post') }}</x-primary-button>
